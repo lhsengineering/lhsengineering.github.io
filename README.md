@@ -1,9 +1,6 @@
 # lhsengineering.github.io
 Official website of the Lynbrook Engineering Club (LEC). The [GitHub Student Developer Pack](https://education.github.com/pack) allows us to use [Bootstrap Studio](https://bootstrapstudio.io) to build and edit our site. Additionally, [GitHub Pages](https://pages.github.com) allows us to deploy this static site for free. Ideally, you would set all of this up with the assistance of another LEC officer. However, you can use this as a reference for the future. This README includes instructions to get set up with contributions to this repository, the GitHub Student Developer Pack, and Bootstrap Studio.
 
-Test edit
-
-
 ## Getting Started
 This will get you set up with contributions to this repository. Before step #6, make sure you follow the guides below to get access to the GitHub Student Developer Pack and install Bootstrap Studio.
 
@@ -15,7 +12,7 @@ This will get you set up with contributions to this repository. Before step #6, 
 6. Use [Bootstrap Studio](https://bootstrapstudio.io/) to edit the file `/bsdesign/*.bsdesign`.
 7. Once the edits have been made, save your changes through Bootstrap Studio. This should save to the `*.bsdesign`
 8. After saving, export the files to the `/website` directory through Bootstrap Studio.
-9. Run `git add -A`, `git commit -m "commit message"`, and `git push` in Terminal/Command Promptto publish changes.
+9. Run `git add -A`, `git commit -m "commit message"`, and `git push` in Terminal/Command Prompt to publish changes.
 
 The site should update within the hour!
 
