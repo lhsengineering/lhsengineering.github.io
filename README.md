@@ -1,6 +1,9 @@
 # lhsengineering.github.io
 Official website of the Lynbrook Engineering Club (LEC). The [GitHub Student Developer Pack](https://education.github.com/pack) allows us to use [Bootstrap Studio](https://bootstrapstudio.io) to build and edit our site. Additionally, [GitHub Pages](https://pages.github.com) allows us to deploy this static site for free. Ideally, you would set all of this up with the assistance of another LEC officer. However, you can use this as a reference for the future. This README includes instructions to get set up with contributions to this repository, the GitHub Student Developer Pack, and Bootstrap Studio.
 
+Test edit
+
+
 ## Getting Started
 This will get you set up with contributions to this repository. Before step #6, make sure you follow the guides below to get access to the GitHub Student Developer Pack and install Bootstrap Studio.
 
