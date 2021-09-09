@@ -1,9 +1,10 @@
-.masthead {
+.bg-primary {
+  background-color: #004b71 !important;
 }
 
-div {
-}
-
-#mainNav {
+.portfolio .portfolio-item .portfolio-item-caption {
+  transition: all ease .5s;
+  opacity: 0;
+  background-color: rgba(0,75,113,.5);
 }
 
